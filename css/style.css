@@ -7,29 +7,36 @@ h2 {
 }
 
 pre {
-	font-size: 25px;
+	font-size: 30px;
 	padding: 5px;
 	margin: 5px;
 }
 
 a {
-	font-size: 30px;
+	font-size: 40px;
 	target="blank";
 }
+
 a:link {
-  color: blue;
-  background-color: transparent;
-  text-decoration: none;
+	color: blue;
+	background-color: transparent;
+	text-decoration: none;
 }
 
 a:visited {
-  color: red;
-  background-color: transparent;
-  text-decoration: none;
+	color: red;
+	background-color: transparent;
+	text-decoration: none;
 }
 
 a:hover {
-  color: green;
-  background-color: transparent;
-  text-decoration: underline;
+	color: green;
+	background-color: transparent;
+	text-decoration: underline;
 }
+
+li {
+	padding: 5px;
+	margin: 5px;
+}
+
